@@ -1,0 +1,17 @@
+{
+  "name": "systembot",
+  "version": "1.0.0",
+  "description": "by gero& kera",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Gero",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.2",
+    "simple-json-db": "^2.0.0"
+  }
+}
